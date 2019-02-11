@@ -1,0 +1,7 @@
+C:\Users\lucti\source\RampingRobots\RampingRobots\bin\Debug\RampingRobots.exe.config
+C:\Users\lucti\source\RampingRobots\RampingRobots\bin\Debug\RampingRobots.exe
+C:\Users\lucti\source\RampingRobots\RampingRobots\bin\Debug\RampingRobots.pdb
+C:\Users\lucti\source\RampingRobots\RampingRobots\obj\Debug\RampingRobots.csprojAssemblyReference.cache
+C:\Users\lucti\source\RampingRobots\RampingRobots\obj\Debug\RampingRobots.csproj.CoreCompileInputs.cache
+C:\Users\lucti\source\RampingRobots\RampingRobots\obj\Debug\RampingRobots.exe
+C:\Users\lucti\source\RampingRobots\RampingRobots\obj\Debug\RampingRobots.pdb
